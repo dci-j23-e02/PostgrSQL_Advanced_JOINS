@@ -1,1 +1,1 @@
-# PostgrSQL_Advanced_JOINS
+# PostgreSQL_Advanced_JOINS
